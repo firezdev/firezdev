@@ -16,7 +16,6 @@
 -->
 <p align="center">
   <img src="https://github.com/firedotguy/firedotguy/blob/main/fires-resized.png?raw=true" width="400px" alt="early banner sketch"><br>
-  <i>!!! new nick soon</i>
 </p>
 
 ---
@@ -48,9 +47,7 @@
 
 ## Contact
 
-- **Telegram:** [@firedotguy](https://t.me/firedotguy)  
-- **Email:** nta16022013@gmail.com
+- **Telegram:** [@nwokez](https://t.me/nwokez)  
 - **Discord:** firedotguy
-- **ИТД:** @fdg or @itd_sdk
+- **ИТД:** @fdg / @itd_sdk
 
-<sub>I am 13 y.o btw</sub>
