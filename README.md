@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>python software developer</strong><br> 5+ years of coding experience <br> 
+  <strong>python/flutter software developer</strong><br>
   <img src="https://komarev.com/ghpvc/?username=codeflane">
 </p>
 
@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Textual-303030?style=flat" />
 </p>
 
-
 ## Contact
 
 - **Telegram:** [@nwokez](https://t.me/nwokez)  
@@ -48,3 +47,5 @@
 - **ИТД:** @fdg
 - **Website:** [firezka.lol](https://firezka.lol)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=firezdev&show_icons=true&locale=en&theme=dark" />
