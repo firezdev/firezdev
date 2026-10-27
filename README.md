@@ -18,13 +18,9 @@
   <img src="https://github.com/firedotguy/firedotguy/blob/main/fires-resized.png?raw=true" width="400px" alt="early banner sketch"><br>
 </p> -->
 
----
-
 ## Hackatime stats
 
 ![hackatime stat](https://github-readme-stats.hackclub.dev/api/wakatime?username=12717&api_domain=hackatime.hackclub.com&theme=monokai&custom_title=Hackatime+stats&layout=compact&cache_seconds=0&langs_count=7)
-
----
 
 ## Technology Stack
 
