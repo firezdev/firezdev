@@ -14,9 +14,9 @@
 > [CMD-visualizer](https://github.com/firedotguy/cmd-visualizer), [pyxend](https://github.com/firedotguy/pyxend) and [textual-video](https://github.com/firedotguy/textual-video) are archived from 01.01.26.  
 > NTphone and pygdrivedb are no longer available.
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/firedotguy/firedotguy/blob/main/fires-resized.png?raw=true" width="400px" alt="early banner sketch"><br>
-</p>
+</p> -->
 
 ---
 
@@ -49,5 +49,6 @@
 
 - **Telegram:** [@nwokez](https://t.me/nwokez)  
 - **Discord:** firedotguy
-- **ИТД:** @fdg / @itd_sdk
+- **ИТД:** @fdg
+- **Website:** [firezka.lol](https://firezka.lol)
 
